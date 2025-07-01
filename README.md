@@ -19,11 +19,11 @@
 
 ###
 
-<h1 align="center">SEJA BEM VINDOS 👋</h1>
+<h1 align="center">SEJAM BEM VINDOS 👋</h1>
 
 ###
 
-<h3 align="left">👩‍💻  sobre mim:</h3>
+<h3 align="left">👩‍💻  about me:</h3>
 
 ###
 
