@@ -19,7 +19,7 @@
 
 ###
 
-<h1 align="center">SEJAM BEM VINDOS 👋</h1>
+<h1 align="center">SEJAM BEM-VINDOS 👋</h1>
 
 ###
 
