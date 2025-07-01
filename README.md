@@ -2,17 +2,11 @@
   <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3R0ajA0eTBsNm43MXN5N3JqbndodzQxYnFpOTk0Z2YxbXFuM25ieSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cCCWygFWkpChuiPlWi/giphy.gif"  />
 </div>
 
-###
 
 
 
-###**
 
-###
 
-###
-
-###
 
 <div align="left">
   <a href="www.linkedin.com/in/ matheus-limatt" target="_blank">
